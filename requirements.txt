@@ -3,7 +3,7 @@ scikit-learn
 pandas
 seaborn
 matplotlib
-scipy
+scipy<1.15.3
 pooch
 openpyxl
 statsmodels
